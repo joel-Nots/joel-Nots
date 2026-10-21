@@ -1,4 +1,4 @@
-<h1 align="center">Hello Guys! We Are OSSInsight! 👁️</h1>
+<h1 align="center">👋 Hi! I’m passionate about the open source world and I use OSSInsight! 👁️</h1>
 
 <div align="center">
 <a href="https://ossinsight.io">
